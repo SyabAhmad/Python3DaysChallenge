@@ -1,0 +1,15 @@
+print("operators in python")
+print("+, -, *, /")
+print(2+3)
+print(4-1)
+print(12*2)
+print(50/5)
+
+print(23 or 32)
+print(23 and 32)
+print(23 != 23)
+
+print(23<<32)
+print(33<32)
+print(23>>32)
+print(23>23)
